@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python3 /workspaces/CERT/reprocess_and_sort\\.py --source /workspaces/CERT/dump-/drive-download-20260516T185024Z-3-001_unzipped --out /workspaces/CERT/dump-/final_sorted$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
